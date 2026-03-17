@@ -56,6 +56,7 @@ projeto-one-piece/
 - Uso de imagens para enriquecer o conteúdo do site.
 - Desenvolvimento de um projeto completo do início ao fim.
 - Primeiro contato com o desenvolvimento web, aplicando conhecimentos básicos de HTML, CSS e JavaScript.
+- adicionado mais três personagens ao elenco principal.
 
 ## Problemas e Bugs
 
